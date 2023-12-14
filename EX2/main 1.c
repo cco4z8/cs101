@@ -12,10 +12,10 @@ int main(){
     
     int i =8;
     if(i&(i-1)){
-        printf("false");
+        printf("true");
     }
     else{
-        printf("true");
+        printf("false");
     }
 
 
